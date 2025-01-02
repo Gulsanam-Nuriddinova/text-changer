@@ -1,0 +1,54 @@
+.container {
+    width: 715px;
+    height: 500px;
+    border: 1px black solid;
+    padding: 8px 8px;
+    margin: 0 auto;
+    margin-top: 20px;
+}
+
+.hero {
+    margin: 0 auto;
+    padding: 20px;
+
+}
+
+input {
+    width: 680px;
+    height: 30px;
+    border: 0.5px black solid;
+    border-radius: 3px;
+    margin-bottom: 15px;
+
+}
+
+h1 {
+    text-align: center;
+}
+
+
+
+h3 {
+    margin-bottom: 4px;
+}
+
+button {
+    padding: 12px 10px;
+    background-color: rgb(105, 105, 206);
+    border: none;
+    color: #fff;
+    border-radius: 5px;
+    margin-top: 13px;
+    margin-bottom: 27px;
+}
+
+#natija{
+    width: 680px;
+    height: 33px;
+    box-sizing: border-box;
+    border: 0.5px black solid;
+    border-radius: 3px;
+    margin-bottom: 15px;
+    padding: 4px;
+    
+}
