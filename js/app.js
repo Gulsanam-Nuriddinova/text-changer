@@ -11,3 +11,4 @@ elBtn.addEventListener('click' , () => {
 
     elNatija.textContent = elValue1.replaceAll(elValue2, elValue3)
 })
+
