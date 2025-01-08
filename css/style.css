@@ -52,3 +52,46 @@ button {
     padding: 4px;
     
 }
+
+
+@media (max-width: 768px) {
+    .container {
+      width: 90%; 
+      height: auto; 
+      margin-top: 50px;
+      padding: 16px;
+    }
+  
+    input, #natija {
+      width: 100%;
+    }
+  
+    button {
+      width: 100%; 
+      margin-top: 10px; 
+      padding: 10px;
+    }
+  }
+  
+  @media (max-width: 480px) {
+    h1 {
+      font-size: 18px;
+    }
+  
+    h3 {
+      font-size: 14px;
+    }
+  
+    .container {
+      padding: 10px; 
+    }
+  
+    input, #natija {
+      height: 25px; 
+    }
+  
+    button {
+      font-size: 14px; 
+      padding: 8px; 
+    }
+  }
